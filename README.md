@@ -30,4 +30,8 @@ Design interactive dashboards in Power BI to visualize churn trends, customer se
 ## Dashboard
 
 ![App Screenshot](https://github.com/Harshit-Sinha-49/Customer-Churn-Analysis/blob/main/Img%201.jpg)
+![App Screenshot](https://github.com/Harshit-Sinha-49/Customer-Churn-Analysis/blob/main/Img%202.jpg)
+![App Screenshot](https://github.com/Harshit-Sinha-49/Customer-Churn-Analysis/blob/main/Img%203.jpg)
+![App Screenshot](https://github.com/Harshit-Sinha-49/Customer-Churn-Analysis/blob/main/Img%204.jpg)
+
 
