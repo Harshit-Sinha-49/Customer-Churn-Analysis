@@ -29,10 +29,10 @@ Export model predictions and relevant data from Python to Power BI.
 Design interactive dashboards in Power BI to visualize churn trends, customer segments, and the impact of various factors on churn.
 ## Dashboard
 
-![App Screenshot](https://github.com/Harshit-Sinha-49/Customer-Churn-Analysis/blob/main/Dashboard%20Images/Img%201.jpg)
-![App Screenshot](https://github.com/Harshit-Sinha-49/Customer-Churn-Analysis/blob/main/Dashboard%20Images/Img%202.jpg)
-![App Screenshot](https://github.com/Harshit-Sinha-49/Customer-Churn-Analysis/blob/main/Dashboard%20Images/Img%203.jpg)
-![App Screenshot](https://github.com/Harshit-Sinha-49/Customer-Churn-Analysis/blob/main/Dashboard%20Images/Img%204.jpg)
-![App Screenshot](https://github.com/Harshit-Sinha-49/Customer-Churn-Analysis/blob/main/Dashboard%20Images/Img%205.jpg)
+![App Screenshot](https://github.com/Harshit-Sinha-49/Customer-Churn-Analysis/blob/main/Dashboard%20Images/Home.jpg)
+![App Screenshot](https://github.com/Harshit-Sinha-49/Customer-Churn-Analysis/blob/main/Dashboard%20Images/Summary.jpg)
+![App Screenshot](https://github.com/Harshit-Sinha-49/Customer-Churn-Analysis/blob/main/Dashboard%20Images/Customer%20Details.jpg)
+![App Screenshot](https://github.com/Harshit-Sinha-49/Customer-Churn-Analysis/blob/main/Dashboard%20Images/Churn%20Reasons.jpg)
+![App Screenshot](https://github.com/Harshit-Sinha-49/Customer-Churn-Analysis/blob/main/Dashboard%20Images/Ask%20a%20question.jpg)
 
 
