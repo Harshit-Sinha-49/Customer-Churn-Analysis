@@ -29,18 +29,27 @@ Export model predictions and relevant data from Python to Power BI.
 Design interactive dashboards in Power BI to visualize churn trends, customer segments, and the impact of various factors on churn.
 ## Dashboard- 
 <h3>Home: </h3>
+
 ![App Screenshot](https://github.com/Harshit-Sinha-49/Customer-Churn-Analysis/blob/main/Dashboard%20Images/Home.jpg)
+
 <br>
 <h3>Summary: </h3>
+
 ![App Screenshot](https://github.com/Harshit-Sinha-49/Customer-Churn-Analysis/blob/main/Dashboard%20Images/Summary.jpg)
+
 <br>
 <h3>Customer Details: </h3>
+
 ![App Screenshot](https://github.com/Harshit-Sinha-49/Customer-Churn-Analysis/blob/main/Dashboard%20Images/Customer%20Details.jpg)
+
 <br>
 <h3>Churn Reason: </h3>
+
 ![App Screenshot](https://github.com/Harshit-Sinha-49/Customer-Churn-Analysis/blob/main/Dashboard%20Images/Churn%20Reasons.jpg)
+
 <br>
 <h3>Ask a Question: </h3>
+
 ![App Screenshot](https://github.com/Harshit-Sinha-49/Customer-Churn-Analysis/blob/main/Dashboard%20Images/Ask%20a%20question.jpg)
 
 
